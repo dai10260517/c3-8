@@ -32,7 +32,7 @@ int main() {
     if (isPrime(num)) {
         cout << num << " is a prime number.\n";
     } else {
-        cout << num << " is not a prime number.\n";
+        cout << num << " is not a prime number. Please try again with a different number.\n";
     }
     
     return 0;
